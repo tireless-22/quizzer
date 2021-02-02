@@ -1,4 +1,4 @@
-Hey! this is naveen karthik .This is a simple quiz app project developed on android studio using the mainly on java and we had used the firebase as the backend .
+Hey! this is naveen karthik .This is a simple quiz app project developed on android studio using mainly on java and we had used firebase as the backend .
 
 What are the prerequisite you should know before using this project ?
 
